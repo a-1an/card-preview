@@ -2,8 +2,9 @@ body {
     background-color: #f3eae3;
 }
 .content {
-    position:absolute;
-    top:50%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
 }
 .container {
     display: flex;
